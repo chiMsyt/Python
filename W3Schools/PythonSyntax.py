@@ -1,4 +1,5 @@
 # Python Indentation
+
 # Refers to the spaces at the beginning of a code line
 # Compared to other languages, indentation is not only for readability
 # Python uses indentation to indicate a block of code
