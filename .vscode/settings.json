@@ -1,3 +1,6 @@
 {
-    "workbench.colorTheme": "Monokai"
+    "workbench.colorTheme": "Monokai",
+
+    "python.defaultInterpreterPath": "c:/Users/PC/Desktop/THINGS/GITHUB/Python/cuda/Scripts/python.exe"
+      
 }
