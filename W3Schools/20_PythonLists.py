@@ -5,7 +5,6 @@
 # Created using square brackets []
 
 # Create a list
-import this
 
 
 thislist = ["apple", "banana", "cherry"]
