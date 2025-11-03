@@ -1,5 +1,5 @@
 '''
-Databas Management System
+Database Management System
 
 Definition: Software that interacts with end-users, applications, and the database itself to capture and analyze data.
 
